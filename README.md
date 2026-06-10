@@ -1,35 +1,127 @@
-<img alt="Estudos" src="https://user-images.githubusercontent.com/46610114/118693618-9a594b80-b7e1-11eb-826b-a06c125022c9.png" />
 
-<a href="https://badges.pufler.dev">
-<img align="right" src="https://badges.pufler.dev/visits/jordhanfelix/estudos">
-</a> 
-<a href="https://opensource.org/licenses/MIT">
-<img align="right" src="https://img.shields.io/npm/l/express">
-</a>
+# 📖 Sobre
 
-<br/>
+O **FelixLabs** é meu laboratório pessoal de estudos e experimentação técnica.
 
-<h2 align="center">
-  Estudos de Programação :computer:
-</h2>
+Este repositório foi criado para registrar minha evolução como desenvolvedor Backend .NET, documentando conhecimentos adquiridos por meio de livros, documentações oficiais, exercícios práticos, refatorações e projetos experimentais.
 
-## :page_facing_up: Sobre
-
-Este repositório contém meus estudos em várias áreas da programação, abordando diversos cursos, bootcamps, pesquisas e pequenos projetos. O objetivo é aprimorar e expandir meus conhecimentos, explorando diferentes tecnologias e linguagens de programação conforme meu interesse.
-
-## :wrench: Tecnologias
-
-Aqui estão alguns dos conceitos e tecnologias que estou explorando:
-
-- [C](https://github.com/JordhanFelix/estudos/tree/main/C)
-- [Design Patterns]
-
-## :books: Leitura Recomendada
-
-- [Mergulho nos Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns/book) 
-- [Código Limpo](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/) 
-
+O objetivo não é apenas consumir conteúdo, mas transformar aprendizado em conhecimento aplicado através de código, documentação e projetos reais.
 
 ---
 
-Feito com :heart: por [Jordhan Félix](https://github.com/JordhanFelix) :wave:
+# 🎯 Objetivo
+
+Construir uma base sólida em:
+
+* Engenharia de Software
+* Arquitetura de Software
+* Domain-Driven Design (DDD)
+* Sistemas Distribuídos
+* Cloud Computing
+* DevOps
+* Platform Engineering
+
+---
+
+# 🧠 Filosofia de Aprendizado
+
+A estratégia utilizada neste repositório segue um ciclo simples:
+
+```text
+Estudar
+    ↓
+Praticar
+    ↓
+Documentar
+    ↓
+Refletir
+    ↓
+Evoluir
+```
+
+Todo tema estudado deve gerar pelo menos um artefato:
+
+* Exercício
+* Projeto
+* Refatoração
+* ADR (Architecture Decision Record)
+* Documentação
+* Artigo técnico
+
+Consumir conteúdo não é considerado progresso.
+
+Aplicar conhecimento é.
+
+---
+
+# 📂 Estrutura do Repositório
+
+Cada tema estudado possui seu próprio projeto dentro da solução.
+
+```text
+FelixLabs
+
+├── FelixLabs.StudyHub.CleanCode
+├── FelixLabs.StudyHub.SOLID
+├── FelixLabs.StudyHub.CleanArchitecture
+├── FelixLabs.StudyHub.DDD
+├── FelixLabs.StudyHub.ASPNET
+├── FelixLabs.StudyHub.EFCore
+├── FelixLabs.StudyHub.RabbitMQ
+├── FelixLabs.StudyHub.Kubernetes
+├── FelixLabs.StudyHub.Azure
+└── ...
+```
+
+Cada projeto contém:
+
+* Exercícios
+* Exemplos
+* Implementações
+* Anotações
+* Experimentos
+* Referências
+
+---
+
+# 📚 Principais Referências
+
+## Livros
+
+* Código Limpo (Robert C. Martin)
+* Arquitetura Limpa (Robert C. Martin)
+* Domain-Driven Design (Eric Evans)
+* Implementing Domain-Driven Design (Vaughn Vernon)
+* Designing Data-Intensive Applications (Martin Kleppmann)
+* Fundamentals of Software Architecture
+* The Staff Engineer's Path
+
+---
+
+## Documentações
+
+* Microsoft Learn
+* ASP.NET Core Documentation
+* Azure Documentation
+* Kubernetes Documentation
+* RabbitMQ Documentation
+
+---
+
+# 📈 Evolução
+
+Este repositório também funciona como um histórico da minha evolução técnica.
+
+Cada projeto representa uma etapa da jornada de aprendizado, permitindo revisitar conceitos, acompanhar o progresso e consolidar conhecimento ao longo do tempo.
+
+Mais do que registrar estudos, o objetivo é construir uma base de conhecimento prática e reutilizável, documentando decisões, experimentos e aprendizados adquiridos durante a evolução profissional.
+
+---
+
+# 🤝 Contribuições
+
+Embora este seja um projeto de estudos pessoal, sugestões, correções e discussões técnicas são sempre bem-vindas.
+
+---
+
+Feito com ❤️ por Jordhan Félix
