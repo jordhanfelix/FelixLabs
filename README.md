@@ -39,19 +39,6 @@ Refletir
 Evoluir
 ```
 
-Todo tema estudado deve gerar pelo menos um artefato:
-
-* Exercício
-* Projeto
-* Refatoração
-* ADR (Architecture Decision Record)
-* Documentação
-* Artigo técnico
-
-Consumir conteúdo não é considerado progresso.
-
-Aplicar conhecimento é.
-
 ---
 
 # 📂 Estrutura do Repositório

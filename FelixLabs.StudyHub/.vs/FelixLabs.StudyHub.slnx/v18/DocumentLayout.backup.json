@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\FelixLabs.StudyHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9522DD2F-57A5-46E6-8D13-E7AE2B0EFC8E}|..\\FelixLabs.SOLID\\FelixLabs.SOLID.csproj|d:\\projetos\\felixlabs.solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\validators\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:validators\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\validators\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:validators\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\validators\\pedidovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:validators\\pedidovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\helpers\\messages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:helpers\\messages.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\helpers\\messages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:helpers\\messages.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|d:\\projetos\\felixlabs.studyhub\\classeproblematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C6EA54-70EC-51B3-3AD3-8FB5518BCAB4}|FelixLabs.CleanCode.csproj|solutionrelative:classeproblematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClasseProblematica.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\ClasseProblematica.cs",
+              "RelativeDocumentMoniker": "ClasseProblematica.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\ClasseProblematica.cs",
+              "RelativeToolTip": "ClasseProblematica.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T15:33:16.805Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Services\\PedidoService.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Services\\PedidoService.cs",
+              "RelativeToolTip": "Services\\PedidoService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:22:17.133Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FelixLabs.SOLID\\Program.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.SOLID\\Program.cs",
+              "RelativeToolTip": "..\\FelixLabs.SOLID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T23:45:44.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoValidator.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\ProdutoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ProdutoValidator.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\ProdutoValidator.cs",
+              "RelativeToolTip": "Validators\\ProdutoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:23:31.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoValidator.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\PedidoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\PedidoValidator.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\PedidoValidator.cs",
+              "RelativeToolTip": "Validators\\PedidoValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:55:26.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteValidator.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\ClienteValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ClienteValidator.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Validators\\ClienteValidator.cs",
+              "RelativeToolTip": "Validators\\ClienteValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:53:48.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPedidoService.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:30:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Messages.Designer.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Helpers\\Messages.Designer.cs",
+              "RelativeDocumentMoniker": "Helpers\\Messages.Designer.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Helpers\\Messages.Designer.cs",
+              "RelativeToolTip": "Helpers\\Messages.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:37:13.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Messages.resx",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Helpers\\Messages.resx",
+              "RelativeDocumentMoniker": "Helpers\\Messages.resx",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Helpers\\Messages.resx",
+              "RelativeToolTip": "Helpers\\Messages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-08T17:37:10.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Entities\\Produto.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Produto.cs",
+              "RelativeToolTip": "Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:38:12.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "Entities\\Pedido.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Pedido.cs",
+              "RelativeToolTip": "Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:31:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "D:\\Projetos\\FelixLabs.StudyHub\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:31:46.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
