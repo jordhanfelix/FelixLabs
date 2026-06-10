@@ -1,8 +1,0 @@
-Cliente: Jordan
-Email: jordan@email.com
-Data: 08/06/2026 14:29:07
-
-Notebook 5000 1
-Mouse 100 2
-
-Total: 5200
