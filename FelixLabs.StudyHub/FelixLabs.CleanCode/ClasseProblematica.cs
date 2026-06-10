@@ -4,9 +4,6 @@ using FelixLabs.CleanCode.Services;
 using FelixLabs.CleanCode.Validators;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.IO;
 
 namespace FelixLabs.CleanCode
 {

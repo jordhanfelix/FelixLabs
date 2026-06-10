@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="FelixLabs.CleanCode.csproj" />
+  <Project Path="FelixLabs.CleanCode/FelixLabs.CleanCode.csproj" Id="6143d5c8-d84f-4cf8-b5bd-cf90fc3456cd" />
+  <Project Path="FelixLabs.SOLID/FelixLabs.SOLID.csproj" Id="dc508bc8-4dca-42b4-a8aa-ce1ff44fa329" />
 </Solution>
